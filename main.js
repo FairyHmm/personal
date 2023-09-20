@@ -1,5 +1,5 @@
-var cnt = 0, n = 8;
-var a = ['t1', 't2', 't3', 't4', 't5', 't6', 't7', 'magic-text', 't8'];
+var cnt = 0, n = 9;
+var a = ['t1', 't2', 't3', 't4', 't5', 't6', 't7', 't8', 'magic-text', 't9'];
 
 document.addEventListener('click', function() {
 	//alert("1");
